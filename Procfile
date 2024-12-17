@@ -1,1 +1,1 @@
-web: bore server
+web: server
